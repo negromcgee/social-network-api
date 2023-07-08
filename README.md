@@ -26,4 +26,3 @@ Any questions or concerns regarding the project, you can contact me via my email
 
 For more of my work, visit my GitHub: https://github.com/negromcgee
 
-<a href="">Demonstration Video</a>
